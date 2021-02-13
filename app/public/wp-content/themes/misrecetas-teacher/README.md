@@ -12,3 +12,5 @@ Algunos enlaces interesantes:
 - Iconos: https://thenounproject.com/
 
 - Fuentes: https://www.1001fonts.com/
+
+- Developer Wordpress: https://developer.wordpress.org/

@@ -1,0 +1,254 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in echo
+#: 404.php:14
+msgid "You may want to check out the articles below"
+msgstr ""
+
+#. Text in function
+#: 404.php:14
+msgid " You may want to check out the articles below "
+msgstr ""
+
+#. Text in function
+#: 404.php:12
+msgid " Oh My! I can&#39;t find that page. "
+msgstr ""
+
+#. Text in function
+#: index.php:30
+msgid " 'No Comments &#187;', '1 Comment &#187;', '% Comments &#187;' "
+msgstr ""
+
+#. Text in function
+#: index.php:31
+msgid " 'Edit', ' &#124; ' "
+msgstr ""
+
+#. Text in echo
+#: page.php:15
+msgid " Posted by: "
+msgstr ""
+
+#. Text in echo
+#: page.php:16
+msgid " COMMENTS "
+msgstr ""
+
+#. Text in echo
+#: full-width.php:16
+msgid " COMMENTS "
+msgstr ""
+
+#. Text in echo
+#: archive.php:11
+msgid "ARCHIVES"
+msgstr ""
+
+#. Text in echo
+#: archive.php:20
+msgid "Archives"
+msgstr ""
+
+#. Text in function
+#: archive.php:14
+msgid "Daily Archives: %s"
+msgstr ""
+
+#. Text in function
+#: archive.php:16
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#. Text in function
+#: archive.php:18
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#. Text in printf
+#: category.php:13
+msgid "Category: %s"
+msgstr ""
+
+#. Text in echo
+#: category.php:13
+msgid "Archive for the"
+msgstr ""
+
+#. Text in function
+#: category.php:20
+msgid "'No Comments &#187;', '1 Comment &#187;', '% Comments &#187;'"
+msgstr ""
+
+#. Text in function
+#: category.php:21
+msgid "'Edit', ' &#124; ', ''"
+msgstr ""
+
+#. Text in function
+#: single.php:24
+msgid "Related Topics: "
+msgstr ""
+
+#. Text in function
+#: single.php:25
+msgid "'Edit', ' &#124; ', ''"
+msgstr ""
+
+#. Text in function
+#: comments.php:8
+msgid " Please do not load this page directly. Thanks! "
+msgstr ""
+
+#. Text in function
+#: comments.php:11
+msgid " This post is password protected. Enter the password to view comments. "
+msgstr ""
+
+#. Text in function
+#: comments.php:19
+msgid " 'No Responses', 'One Response', '% Responses' "
+msgstr ""
+
+#. Text in echo
+#: comments.php:41
+msgid "Comments are closed."
+msgstr ""
+
+#. Text in function
+#: comments.php:50
+msgid " 'Leave a Reply', 'Leave a Reply to %s' "
+msgstr ""
+
+#. Text in function
+#: comments.php:57
+msgid " You must be "
+msgstr ""
+
+#. Text in function
+#: comments.php:58
+msgid " logged in "
+msgstr ""
+
+#. Text in function
+#: comments.php:59
+msgid " to post a comment "
+msgstr ""
+
+#. Text in anchor title
+#: comments.php:66
+msgid " Logged in as "
+msgstr ""
+
+#. Text in anchor title
+#: comments.php:67
+msgid " Log out of this account "
+msgstr ""
+
+#. Text in function
+#: comments.php:73
+msgid " Name "
+msgstr ""
+
+#. Text in function
+#: comments.php:78
+msgid " Mail (will not be published) "
+msgstr ""
+
+#. Text in function
+#: comments.php:83
+msgid " Website "
+msgstr ""
+
+#. Text in function
+#: comments.php:88
+msgid " You can use these tags: "
+msgstr ""
+
+#. Text in function
+#: comments.php:95
+msgid " Submit Comment "
+msgstr ""
+
+#. Text in function
+#: comments.php:104
+msgid " Comments "
+msgstr ""
+
+#. Text in echo
+#: footer.php:2
+msgid " Latest Stories RSS "
+msgstr ""
+
+#. Text in echo
+#: footer.php:3
+msgid " Comments RSS "
+msgstr ""
+
+#. Text in echo
+#: footer.php:21
+msgid "Copyright"
+msgstr ""
+
+#. Text in function
+#: function.php:24
+msgid " Header Menu "
+msgstr ""
+
+#. Text in function
+#: function.php:98
+msgid " Right Side Widget "
+msgstr ""
+
+#. Text in function
+#: function.php:100
+msgid " Appears on posts and pages in Footer Area Left "
+msgstr ""
+
+#. Text in function
+#: function.php:108
+msgid " Footer Widget 1 "
+msgstr ""
+
+#. Text in function
+#: function.php:110
+msgid " Appears Left Side on Footer "
+msgstr ""
+
+#. Text in function
+#: function.php:118
+msgid " Footer Widget 2 "
+msgstr ""
+
+#. Text in function
+#: function.php:120
+msgid " Appears on Footer Middle "
+msgstr ""
+
+#. Text in function
+#: function.php:127
+msgid " Footer Widget 3 "
+msgstr ""
+
+#. Text in function
+#: function.php:129
+msgid " Appears on Footer Right "
+msgstr ""
+
+#. Text in echo
+#: searchform.php:2
+msgid "Find Articles"
+msgstr ""
+
+#. Text in echo
+#: searchform.php:3
+msgid "Search for: "
+msgstr ""
+
+#. Text in echo
+#: searchform.php:6
+msgid "Search"
+msgstr ""

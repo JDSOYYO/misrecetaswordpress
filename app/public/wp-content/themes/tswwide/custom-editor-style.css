@@ -1,0 +1,168 @@
+body#tinymce.wp-editor { 
+    font-family: Arial, Helvetica, sans-serif; 
+    margin: 10px; 
+}
+
+body#tinymce.wp-editor a {
+    color: #4CA6CF;
+}
+
+.alignnone {
+    margin:             5px 20px 20px 0;
+}
+
+.aligncenter,
+div.aligncenter {
+    display:            block;
+    margin:             5px auto 5px auto;
+}
+
+.alignright {
+    float:              right;
+    margin:             5px 0 20px 20px;
+}
+
+.alignleft {
+    float:              left;
+    margin:             5px 20px 20px 0;
+}
+
+.aligncenter {
+    display:            block;
+    margin:             5px auto 5px auto;
+}
+
+a img.alignright {
+    float:              right;
+    margin:             5px 0 20px 20px;
+}
+
+a img.alignnone {
+    margin:             5px 20px 20px 0;
+}
+
+a img.alignleft {
+    float:              left;
+    margin:             5px 20px 20px 0;
+}
+
+a img.aligncenter {
+    display:            block;
+    margin-left:        auto;
+    margin-right:       auto
+}
+
+.wp-caption {
+    background:         #fff;
+    border:             1px solid #f0f0f0;
+    max-width:          96%; /* prevents overflow the content area */
+    padding:            5px 3px 10px;
+    text-align:         center;
+}
+
+.wp-caption.alignnone {
+    margin:             5px 20px 20px 0;
+}
+
+.wp-caption.alignleft {
+    margin:             5px 20px 20px 0;
+}
+
+.wp-caption.alignright {
+    margin:             5px 0 20px 20px;
+}
+
+.wp-caption img {
+    border:             0 none;
+    height:             auto;
+    margin:             0;
+    max-width:          98.5%;
+    padding:            0;
+    width:              auto;
+}
+
+.wp-caption p.wp-caption-text {
+    font-size:          11px;
+    line-height:        17px;
+    margin:             0;
+    padding:            0 4px 5px;
+}
+.post-content iframe,
+.post-content embed,
+.post-content object,
+.post-content audio,
+.post-content canvas {
+    max-width:          99.8992%;
+    margin:             0 auto;
+}
+.post-content p,
+.post-content blockquote,
+.post-content ul,
+.post-content ol,
+.post-content address,
+.post-content dl,
+.post-content .wp-caption,
+.post-content pre {
+    line-height:        130%;
+    max-width:          98.8992%;
+    margin:      0.26em 0 0.66em 1em;
+}
+.post-content li {
+list-style: square inside none;
+margin-left: 1em;
+}
+.post-content h1,
+.post-content h2,
+.post-content h3, 
+.post-content h4, 
+.post-content h5, 
+.post-content h6 {
+    background: transparent !important;
+    border: 0;
+}
+.post-content .alignleft,
+.post-content .alignright {
+    display:            block;
+    float:              none;
+    clear:              both;
+    margin:             0 auto 1em auto;
+    text-align:         center;
+}
+
+.post-content hr { 
+    width:              75%; 
+}
+
+#post-entry {
+    margin:             2% 5%;
+}
+
+.post-author {
+    font-style:         italic;
+    margin-left:        10px;
+}
+.post h3,
+.content h2,
+.entry-title,
+.post-title  { 
+    line-height:        1.2;
+    font-size:          1.344em;
+    font-weight:        700;
+    width:              93.335%;
+    margin:             12px 5px;
+    color:              #000;
+    background:         #B8CFCC;
+    background:         linear-gradient(top, #efefef 0%, #bbbbbb 100%);  
+    background:    -moz-linear-gradient(top, #efefef 0%, #bbbbbb 100%); 
+    background: -webkit-linear-gradient(top, #efefef 0%, #bbbbbb 100%); 
+ 
+    padding:            3px 7px; 
+    border-radius:      2px;
+
+}
+.post-title a,
+.post h3 a,
+.post h3 a:link {
+    color:              #764;
+    text-shadow:        0 0 1px #FFF;
+}
